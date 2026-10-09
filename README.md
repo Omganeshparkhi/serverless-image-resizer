@@ -60,7 +60,20 @@ User Uploads Image
 
 ## Screenshots
 
-Project screenshots will be added here.
+### 1. S3 Input Bucket
+![S3 Input Bucket](01-s3-input-bucket.png)
+
+### 2. Lambda Function
+![Lambda Function](02-lambda-function.png)
+
+### 3. Pillow Layer
+![Pillow Layer](03-pillow-layer.png)
+
+### 4. Resized Output Folders
+![Resized Output Folders](04-resized-output-folders.png)
+
+### 5. CloudWatch Logs
+![CloudWatch Logs](05-cloudwatch-logs.png)
 
 ## How to Run the Project
 
